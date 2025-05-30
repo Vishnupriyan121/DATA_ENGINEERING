@@ -6,8 +6,8 @@ import re
 import mysql.connector
 #set up Client Credentials
 sp=spotipy.Spotify(auth_manager=SpotifyClientCredentials(
-    client_id='d5b0b3579b6c4924800a535e329e385f',
-    client_secret='265ffd40e0e342c78d76a9e6a9df64a5'
+    client_id='',
+    client_secret=''
 ))
 
 #database configuration
