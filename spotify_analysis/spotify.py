@@ -16,7 +16,7 @@ db_config={
     'host': 'localhost',
     'database': 'test',
     'user': 'root',
-    'password': 'IFET@2022',
+    'password': '',
 }
 
 # Connect to the database
