@@ -13,9 +13,9 @@ sp=spotipy.Spotify(auth_manager=SpotifyClientCredentials(
 #database configuration
 
 db_config={
-    'host': 'localhost',
-    'database': 'test',
-    'user': 'root',
+    'host': '',
+    'database': '',
+    'user': '',
     'password': '',
 }
 
