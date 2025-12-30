@@ -12,7 +12,7 @@ sp=spotipy.Spotify(auth_manager=SpotifyClientCredentials(
     client_secret=''
 ))
 
-#database configuration
+#database configuration for postgresql
 
 db_config={
     'host': '',
