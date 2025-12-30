@@ -1,3 +1,5 @@
+
+#This code is mentioned to analyze spotify track data using Spotify API and store it in a MySQL database.
 from spotipy.oauth2 import SpotifyClientCredentials
 import spotipy
 import pandas as pd
